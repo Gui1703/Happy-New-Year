@@ -7,8 +7,9 @@
 
 <img src="./assets/Print-project-desktop.png" alt="Happy New Year Version Desktop">
 
->Version Desktop.
-><br>
+><p>Version Desktop.</p>
+<br>
+
 > Presentation image about the project.
 > <br>
 > <2021/> - End of year 2021.
