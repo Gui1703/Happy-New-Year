@@ -5,7 +5,9 @@
 
 
 > Presentation image about the project.
+> <br>
 > <2021/> - End of year 2021.
+> <br>
 > <2022> - Beginning of the year 2022.
 
 ## 🤝 Contributors
