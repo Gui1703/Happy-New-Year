@@ -3,7 +3,7 @@
 
 <img src="./assets/Print-project.jpeg" alt="Happy New Year Version Mobile" width="300px">
 
->Version mobile.
+>Version Mobile.
 
 <img src="./assets/Print-project-desktop.png" alt="Happy New Year Version Desktop">
 
